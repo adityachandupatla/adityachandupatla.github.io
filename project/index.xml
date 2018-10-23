@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Aditya Chandupatla</title>
+    <link>https://adityachandupatla.github.io/project/</link>
+    <description>Recent content in Projects on Aditya Chandupatla</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 07 Oct 2018 00:00:00 +0530</lastBuildDate>
+    
+	<atom:link href="https://adityachandupatla.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Artificial Music Generation</title>
+      <link>https://adityachandupatla.github.io/project/artificial_music/</link>
+      <pubDate>Sun, 07 Oct 2018 00:00:00 +0530</pubDate>
+      
+      <guid>https://adityachandupatla.github.io/project/artificial_music/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Auto Suggest</title>
+      <link>https://adityachandupatla.github.io/project/auto_suggest/</link>
+      <pubDate>Sun, 07 Oct 2018 00:00:00 +0530</pubDate>
+      
+      <guid>https://adityachandupatla.github.io/project/auto_suggest/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CLRS</title>
+      <link>https://adityachandupatla.github.io/project/clrs/</link>
+      <pubDate>Sun, 07 Oct 2018 00:00:00 +0530</pubDate>
+      
+      <guid>https://adityachandupatla.github.io/project/clrs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Codechef</title>
+      <link>https://adityachandupatla.github.io/project/codechef/</link>
+      <pubDate>Sun, 07 Oct 2018 00:00:00 +0530</pubDate>
+      
+      <guid>https://adityachandupatla.github.io/project/codechef/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>De-biasing word vectors</title>
+      <link>https://adityachandupatla.github.io/project/word_vec/</link>
+      <pubDate>Sun, 07 Oct 2018 00:00:00 +0530</pubDate>
+      
+      <guid>https://adityachandupatla.github.io/project/word_vec/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dimensionality Reduction on Face Images</title>
+      <link>https://adityachandupatla.github.io/project/dimensionality_reduction/</link>
+      <pubDate>Sun, 07 Oct 2018 00:00:00 +0530</pubDate>
+      
+      <guid>https://adityachandupatla.github.io/project/dimensionality_reduction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Doctor App</title>
+      <link>https://adityachandupatla.github.io/project/doctor_app/</link>
+      <pubDate>Sun, 07 Oct 2018 00:00:00 +0530</pubDate>
+      
+      <guid>https://adityachandupatla.github.io/project/doctor_app/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ETMS</title>
+      <link>https://adityachandupatla.github.io/project/etms/</link>
+      <pubDate>Sun, 07 Oct 2018 00:00:00 +0530</pubDate>
+      
+      <guid>https://adityachandupatla.github.io/project/etms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GeeksForGeeks</title>
+      <link>https://adityachandupatla.github.io/project/geeksforgeeks/</link>
+      <pubDate>Sun, 07 Oct 2018 00:00:00 +0530</pubDate>
+      
+      <guid>https://adityachandupatla.github.io/project/geeksforgeeks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HackerRank</title>
+      <link>https://adityachandupatla.github.io/project/hackerrank/</link>
+      <pubDate>Sun, 07 Oct 2018 00:00:00 +0530</pubDate>
+      
+      <guid>https://adityachandupatla.github.io/project/hackerrank/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image Compression</title>
+      <link>https://adityachandupatla.github.io/project/image_compression/</link>
+      <pubDate>Sun, 07 Oct 2018 00:00:00 +0530</pubDate>
+      
+      <guid>https://adityachandupatla.github.io/project/image_compression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Insta Bot</title>
+      <link>https://adityachandupatla.github.io/project/insta_bot/</link>
+      <pubDate>Sun, 07 Oct 2018 00:00:00 +0530</pubDate>
+      
+      <guid>https://adityachandupatla.github.io/project/insta_bot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Movie Recommendation System</title>
+      <link>https://adityachandupatla.github.io/project/movie_recommendation/</link>
+      <pubDate>Sun, 07 Oct 2018 00:00:00 +0530</pubDate>
+      
+      <guid>https://adityachandupatla.github.io/project/movie_recommendation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neural Style Transfer</title>
+      <link>https://adityachandupatla.github.io/project/neural_style_transfer/</link>
+      <pubDate>Sun, 07 Oct 2018 00:00:00 +0530</pubDate>
+      
+      <guid>https://adityachandupatla.github.io/project/neural_style_transfer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Residual Network</title>
+      <link>https://adityachandupatla.github.io/project/residual_network/</link>
+      <pubDate>Sun, 07 Oct 2018 00:00:00 +0530</pubDate>
+      
+      <guid>https://adityachandupatla.github.io/project/residual_network/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spam Classifier</title>
+      <link>https://adityachandupatla.github.io/project/spam_classifier/</link>
+      <pubDate>Sun, 07 Oct 2018 00:00:00 +0530</pubDate>
+      
+      <guid>https://adityachandupatla.github.io/project/spam_classifier/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TensorFlow programs</title>
+      <link>https://adityachandupatla.github.io/project/tf/</link>
+      <pubDate>Sun, 07 Oct 2018 00:00:00 +0530</pubDate>
+      
+      <guid>https://adityachandupatla.github.io/project/tf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Test Case Generator</title>
+      <link>https://adityachandupatla.github.io/project/test_case_generator/</link>
+      <pubDate>Sun, 07 Oct 2018 00:00:00 +0530</pubDate>
+      
+      <guid>https://adityachandupatla.github.io/project/test_case_generator/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

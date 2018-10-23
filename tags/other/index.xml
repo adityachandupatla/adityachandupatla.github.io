@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Other on Aditya Chandupatla</title>
+    <link>https://adityachandupatla.github.io/tags/other/</link>
+    <description>Recent content in Other on Aditya Chandupatla</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 07 Oct 2018 00:00:00 +0530</lastBuildDate>
+    
+	<atom:link href="https://adityachandupatla.github.io/tags/other/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>CLRS</title>
+      <link>https://adityachandupatla.github.io/project/clrs/</link>
+      <pubDate>Sun, 07 Oct 2018 00:00:00 +0530</pubDate>
+      
+      <guid>https://adityachandupatla.github.io/project/clrs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Codechef</title>
+      <link>https://adityachandupatla.github.io/project/codechef/</link>
+      <pubDate>Sun, 07 Oct 2018 00:00:00 +0530</pubDate>
+      
+      <guid>https://adityachandupatla.github.io/project/codechef/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GeeksForGeeks</title>
+      <link>https://adityachandupatla.github.io/project/geeksforgeeks/</link>
+      <pubDate>Sun, 07 Oct 2018 00:00:00 +0530</pubDate>
+      
+      <guid>https://adityachandupatla.github.io/project/geeksforgeeks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HackerRank</title>
+      <link>https://adityachandupatla.github.io/project/hackerrank/</link>
+      <pubDate>Sun, 07 Oct 2018 00:00:00 +0530</pubDate>
+      
+      <guid>https://adityachandupatla.github.io/project/hackerrank/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TensorFlow programs</title>
+      <link>https://adityachandupatla.github.io/project/tf/</link>
+      <pubDate>Sun, 07 Oct 2018 00:00:00 +0530</pubDate>
+      
+      <guid>https://adityachandupatla.github.io/project/tf/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
