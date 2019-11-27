@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 07 Oct 2018 00:00:00 +0530</lastBuildDate>
+    <lastBuildDate>Sun, 07 Oct 2018 00:00:00 -0700</lastBuildDate>
     
 	<atom:link href="https://adityachandupatla.github.io/tags/java/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Test Case Generator</title>
       <link>https://adityachandupatla.github.io/project/test_case_generator/</link>
-      <pubDate>Sun, 07 Oct 2018 00:00:00 +0530</pubDate>
+      <pubDate>Sun, 07 Oct 2018 00:00:00 -0700</pubDate>
       
       <guid>https://adityachandupatla.github.io/project/test_case_generator/</guid>
       <description></description>
