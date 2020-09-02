@@ -8,7 +8,7 @@ div {
 }
 
 li {
-  display: inline-block;
+  display: inline;
   text-align: center;
   padding: 14px 14px 14px 10px;
   text-decoration: none;
@@ -26,30 +26,30 @@ h1 {
 .pageheading {
   position: relative;
   display: block;
-  margin-left: 2%;
+  margin-left: 10px;
   padding: 10px 10px 0px 45px;
 }
 
 .navigation {
   position: relative;
   display: block;
-  margin-left: 2%;
+  margin-left: 10px;
 }
 
 .banner {
   position: relative;
   display: block;
-  margin-left: 5.5%;
-  margin-right: 5%;
+  margin-left: 60px;
+  margin-right: 60px;
 }
 
 .parallax{
   background-image: url("https://csci571.com/hw/hw3/images/Cutlery.png");
-  min-height: 600px;
+  height: 600px;
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
-  background-size: cover;
+  /*background-size: cover;*/
 }
 
 .midtitle {
@@ -62,7 +62,7 @@ h1 {
 .customtable {
   position: relative;
   display: block;
-  margin-left: 3%;
+  margin-left: 35px;
 }
 
 .caption {
@@ -71,8 +71,8 @@ h1 {
 }
 
 .table-image {
-  width: 100%;
-  height: 80%;
+  width: 400px;
+  height: 300px;
 }
 
 #banner-text {
