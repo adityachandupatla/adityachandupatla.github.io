@@ -40,16 +40,16 @@ h1 {
   position: relative;
   display: block;
   margin-left: 60px;
-  margin-right: 60px;
+  /*margin-right: 60px;*/
 }
 
 .parallax{
   background-image: url("https://csci571.com/hw/hw3/images/Cutlery.png");
   height: 600px;
+  width: 840px;
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
-  /*background-size: cover;*/
 }
 
 .midtitle {
