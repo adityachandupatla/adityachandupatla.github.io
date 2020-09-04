@@ -40,7 +40,6 @@ h1 {
   position: relative;
   display: block;
   margin-left: 60px;
-  /*margin-right: 60px;*/
 }
 
 .parallax{
@@ -52,10 +51,10 @@ h1 {
   background-repeat: no-repeat;
 }
 
-.midtitle {
-  position: relative;
-  display: block;
-  padding: 30px;
+#mytitle {
+  padding: 20px;
+  width: 800px;
+  margin-left: 50px;
   text-align: center;
 }
 
@@ -73,6 +72,7 @@ h1 {
 .table-image {
   width: 400px;
   height: 300px;
+  border-right: 10px solid #E6E6FA;
 }
 
 #banner-text {
