@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web and Cloud on Aditya Chandupatla</title>
+    <link>https://adityachandupatla.github.io/tags/web-and-cloud/</link>
+    <description>Recent content in Web and Cloud on Aditya Chandupatla</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 07 Oct 2018 00:00:00 -0700</lastBuildDate>
+    
+	<atom:link href="https://adityachandupatla.github.io/tags/web-and-cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Doctor App</title>
+      <link>https://adityachandupatla.github.io/project/doctor_app/</link>
+      <pubDate>Sun, 07 Oct 2018 00:00:00 -0700</pubDate>
+      
+      <guid>https://adityachandupatla.github.io/project/doctor_app/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ETMS</title>
+      <link>https://adityachandupatla.github.io/project/etms/</link>
+      <pubDate>Sun, 07 Oct 2018 00:00:00 -0700</pubDate>
+      
+      <guid>https://adityachandupatla.github.io/project/etms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Insta Bot</title>
+      <link>https://adityachandupatla.github.io/project/insta_bot/</link>
+      <pubDate>Sun, 07 Oct 2018 00:00:00 -0700</pubDate>
+      
+      <guid>https://adityachandupatla.github.io/project/insta_bot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Test Case Generator</title>
+      <link>https://adityachandupatla.github.io/project/test_case_generator/</link>
+      <pubDate>Sun, 07 Oct 2018 00:00:00 -0700</pubDate>
+      
+      <guid>https://adityachandupatla.github.io/project/test_case_generator/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
