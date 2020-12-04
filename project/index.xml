@@ -7,10 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sat, 07 Nov 2020 00:00:00 -0800</lastBuildDate>
+    <lastBuildDate>Thu, 03 Dec 2020 00:00:00 -0800</lastBuildDate>
     
 	<atom:link href="https://adityachandupatla.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Android Stocks</title>
+      <link>https://adityachandupatla.github.io/project/android_stockapp/</link>
+      <pubDate>Thu, 03 Dec 2020 00:00:00 -0800</pubDate>
+      
+      <guid>https://adityachandupatla.github.io/project/android_stockapp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Angular/Node Stocks</title>
+      <link>https://adityachandupatla.github.io/project/angular_stockapp/</link>
+      <pubDate>Thu, 03 Dec 2020 00:00:00 -0800</pubDate>
+      
+      <guid>https://adityachandupatla.github.io/project/angular_stockapp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python Flask Stocks</title>
+      <link>https://adityachandupatla.github.io/project/flask_stocks/</link>
+      <pubDate>Thu, 03 Dec 2020 00:00:00 -0800</pubDate>
+      
+      <guid>https://adityachandupatla.github.io/project/flask_stocks/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Network Traffic Shaper</title>
