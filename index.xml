@@ -119,15 +119,6 @@
     </item>
     
     <item>
-      <title>Insta Bot</title>
-      <link>https://adityachandupatla.github.io/project/insta_bot/</link>
-      <pubDate>Sun, 07 Oct 2018 00:00:00 -0700</pubDate>
-      
-      <guid>https://adityachandupatla.github.io/project/insta_bot/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Movie Recommendation System</title>
       <link>https://adityachandupatla.github.io/project/movie_recommendation/</link>
       <pubDate>Sun, 07 Oct 2018 00:00:00 -0700</pubDate>
@@ -142,6 +133,15 @@
       <pubDate>Sun, 07 Oct 2018 00:00:00 -0700</pubDate>
       
       <guid>https://adityachandupatla.github.io/project/neural_style_transfer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Residual Network</title>
+      <link>https://adityachandupatla.github.io/project/residual_network/</link>
+      <pubDate>Sun, 07 Oct 2018 00:00:00 -0700</pubDate>
+      
+      <guid>https://adityachandupatla.github.io/project/residual_network/</guid>
       <description></description>
     </item>
     
