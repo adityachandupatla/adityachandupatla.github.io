@@ -19,7 +19,7 @@
       
       <guid>https://adityachandupatla.github.io/home/about/</guid>
       <description>About Me Software engineer with a demonstrated history of working in distributed systems and database industry. I bring academic expertise coupled with Industry best-practises to the table.
-I am currently working as a Software Engineer at Tesla with the Ownership Experience Team based in Fremont, California. I have also interned in the same team during my final semester of college. My primary responsibilities include designing and developing features and backend systems which handle transfer of Tesla vehicles worldwide.</description>
+Currently part of Data Platform Team at Coinbase where our responsibility is to build foundational data infrastructure for the company. This involves building data access controls for our Snowflake warehouse, building Golang based microservices for data retention to adhere to compliance, developing airflow-based ETL pipelines, and much more.</description>
     </item>
     
     <item>
